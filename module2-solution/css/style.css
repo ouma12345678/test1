@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
-    margin: 5px;
-    padding: 5px;
+    margin: 0px;
+    padding: 0px;
     
 
 }
@@ -49,29 +49,17 @@ p {
 
 !**************** Desktop *******************!
 @media (min-width: 992px) {
-    h4 {
-        position: static;}
-    .p-section{
-        margin-bottom: 60px;
-    }
 
 }
 !**************** Tablet *******************!
 @media (min-width: 768px) and (max-width: 991px) {
-    h4 {
-        position: static;}
-   .p-section{
-        margin-bottom: 60px;    
+  
 }
-}
+
 !**************** Mobile *******************
 @media (max-width: 767px) {
+ 
+}
 
-     h4 {
-        position: static;}
-    .p-section{
-            
-        margin-bottom: 60px;    
-}
-}
+
 
